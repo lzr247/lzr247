@@ -22,8 +22,7 @@
     <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express-icon" width="24" height="24"/>
     <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws-icon" width="24" height="24"/>
   </div>
-
-
+  
 <br/>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzr247)](https://github.com/anuraghazra/github-readme-stats) -->
