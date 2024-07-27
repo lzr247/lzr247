@@ -5,7 +5,7 @@
 -   🌍 interested in **open source projects**
 -   📚 expanding current knowledge and learning new things everyday
 -   👯 am looking to collaborate on exciting and challenging projects
--   ⚡️ Fun fact: I love running 🏃
+-   ⚡️ fun fact: I love running 🏃
 
  <div>
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js-icon" width="24" height="24"/><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="ts-icon" width="24" height="24"/>
