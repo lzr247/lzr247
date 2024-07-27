@@ -33,9 +33,7 @@
 <br/>
 
 ## :mailbox: Contact
-I would be glad to hear from you. Please feel free to contact me.
-
--   📫 Reach me out at: [LinkedIn](https://www.linkedin.com/in/lazar-coni%C4%87-196991207/) | [GMail](mailto:coniclazar1@gmail.com)
+I would be glad to hear from you. Please feel free to contact me. Reach out to me at: [LinkedIn](https://www.linkedin.com/in/lazar-coni%C4%87-196991207/) | [GMail](mailto:coniclazar1@gmail.com)
 
 <br/>
 
