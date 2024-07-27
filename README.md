@@ -41,4 +41,4 @@ I would be glad to hear from you. Please feel free to contact me.
 <br/>
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![](https://quotes-github-readme.vercel.app/api?)
